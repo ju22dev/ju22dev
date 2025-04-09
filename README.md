@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ju22dev<br>- 👀 I’m interested in Native Android and Backend Development<br>- 🌱 I’m currently studying Software Engineering (3rd Year)<br>- 💞️ I’m looking to collaborate on projects involving Kotlin and also open to others<br>- 📫 How to reach me: junaid22dino@gmail.com<br>
+- 👋 Hi, I’m @ju22dev<br>- 👀 I’m interested in Both Frontend and Backend Development<br>- 🌱 I’m currently studying Software Engineering (3rd Year)<br>- 💞️ I’m looking to collaborate on projects involving Kotlin and React<br>- 📫 How to reach me: junaid22dino@gmail.com<br>
 
 
 ## 🌐 Socials:
