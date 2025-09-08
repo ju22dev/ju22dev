@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ju22dev<br>- 👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently in my senior year of Software Engineering (4th Year)<br>- 💞️ I’m looking to collaborate on projects involving Node.JS and React<br>- 📫 How to reach me: junaid22dino@gmail.com<br>
+- 👋 Hi, I’m Junaid<br>- 👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently in my senior year of Software Engineering at Istanbul Atlas University<br>- 💞️ I’m looking to collaborate on projects involving Node.JS and React<br>- 📫 How to reach me: junaid22dino@gmail.com<br>
 
 
 ## 🌐 Socials:
