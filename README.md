@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Junaid<br>- 👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently in my senior year of Software Engineering at Istanbul Atlas University<br>
+- 👋 Hi, I’m Junaid<br>- 👀 I’m interested in Full Stack Development and Mobile Apps<br>- 🌱 I’m currently in my senior year of Software Engineering at Istanbul Atlas University<br>
 
 
 ## 🌐 Socials:
